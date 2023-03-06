@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=256&section=header&text=SnowLukin&fontSize=75&animation=fadeIn&fontAlignY=36&desc=Swift-developer&descAlignY=56)
+![](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=256&section=header&text=SnowLukin&fontSize=75&animation=twinkling&fontAlignY=36&desc=Swift-developer&descAlignY=56)
 
 
 ![](https://streak-stats.demolab.com?user=SnowLukin&theme=github-dark-blue&hide_border=true&mode=weekly)
