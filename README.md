@@ -19,4 +19,7 @@
   </p>
 
 
-- 📫 How to reach me **snowlukin@gmail.com**
+- 📫 How to reach me
+- Mail: **snowlukin@gmail.com**
+- Telegram: **@snow_lukin**
+
